@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.box{
+    height: 300px;
+    align-content: center;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    width: 40%;
+    border: 3px solid black;
+    padding: 10px;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+
+}
